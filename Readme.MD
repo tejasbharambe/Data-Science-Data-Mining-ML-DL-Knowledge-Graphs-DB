@@ -1,6 +1,5 @@
-# USC Course Work
 
-## Machine Learning 
+# Machine Learning 
 ## Fall 2021 USC DSCI552 (Machine Learning)
 ### @Recruiters and Hiring Managers, please contact for access
 
